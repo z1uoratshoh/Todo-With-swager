@@ -1,1 +1,36 @@
 
+
+.f_l{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.div_Home_1{
+    background-image: url("src/img/Images/Rectangle 326.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.btn{
+    background-color: #FF3C78;
+    width: 180px;
+    height: 50px;
+    border-radius: 10px;
+    color: white;
+}
+
+.btn:hover{
+    transition: 0.3s;
+    background-color: #880b31;
+}
+
+.section{
+    background-image: url("");
+}
+
+.add_1:hover{
+    transition: 1s;
+    margin-left: 1px;
+    background-color: aliceblue;
+}

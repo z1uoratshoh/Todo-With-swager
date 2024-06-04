@@ -5,6 +5,8 @@ import { Link } from "react-router-dom";
 import FileBase64 from 'react-filebase64';
 import * as Yup from "yup";
 
+import "../../App.css"
+
 const SignupSchema = Yup.object().shape({
   Name: Yup.string()
     .min(5, "Too Short!")
@@ -63,7 +65,7 @@ const Contact = () => {
   }, []);
 
   return (
-    <div className="container mx-auto p-4">
+    <div className="container mx-auto p-4 f_l dark:bg-[#0d0d30]">
       <Formik
         initialValues={{
           Name: "",
@@ -73,7 +75,7 @@ const Contact = () => {
         onSubmit={addTodo}
       >
         {({ errors, touched }) => (
-          <Form className="grid gap-4 p-4 border border-green-300 rounded-lg shadow-md">
+          <Form className="grid gap-4 absolute ml-[-30%] p-4 border w-[30%] add_1 h-[50vh] border-green-300 rounded-lg shadow-md">
             <div>
               <label htmlFor="Name" className="block font-semibold">Name</label>
               <Field
@@ -100,7 +102,7 @@ const Contact = () => {
             </div>
             <div>
               <label htmlFor="Image" className="block font-semibold">Image</label>
-              <FileBase64 onDone={handleChangeImg} className="mt-1" />
+              <FileBase64 onDone={handleChangeImg} className="mt-1 w-[300px]" />
             </div>
             <button
               className="border bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded transition duration-300"
@@ -111,16 +113,14 @@ const Contact = () => {
           </Form>
         )}
       </Formik>
-      <div className="grid grid-cols-4 gap-6 md:grid-cols-2">
+      <div className="grid grid-cols-4 gap-6 w-[80%] m-auto md:grid-cols-2">
         {data.map((e) => (
           <Link
             to={`/Contact/data/${e.id}`}
-            className="p-6 border rounded-lg shadow-2xl bg-white"
+            className="p-2 border rounded-lg shadow-2xl bg-white"
             key={e.id}
           >
-            <h1 className="text-xl font-bold mb-2">{e.name}</h1>
-            <p className="text-gray-700 mb-4">{e.description}</p>
-            <div className="grid grid-cols-2 gap-4">
+            <div className="w-[95%] m-auto">
               {e.images.map((el) => (
                 <img
                   key={el.id}
@@ -130,6 +130,9 @@ const Contact = () => {
                 />
               ))}
             </div>
+            <h1 className="text-xl text-center font-bold mb-2">{e.name}</h1>
+            <p className="text-gray-700 text-center mb-4">{e.description}</p>
+            
           </Link>
         ))}
       </div>

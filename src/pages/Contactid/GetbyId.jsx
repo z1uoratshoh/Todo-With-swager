@@ -133,7 +133,7 @@ const GetbyId = () => {
   }
 
   return (
-    <div className="container mx-auto p-4">
+    <div className="w-[80%] m-auto  mx-auto p-4 dark:bg-[#07071a] dark:text-[white]">
       <div className="grid grid-cols-2 gap-4">
         {data.images?.map((item, i) => (
           <img
@@ -141,7 +141,7 @@ const GetbyId = () => {
             src={`${ImageApi}/${item.imageName}`}
             key={i}
             alt={`Image ${i}`}
-            className="w-full h-auto m-auto object-cover rounded"
+            className="w-full h-auto m-auto object-cover rounded-[20px]"
           />
         ))}
          <Dialog
@@ -196,7 +196,7 @@ const GetbyId = () => {
           <Link to="/Contact">
             <button
               onClick={() => deleteUser(id)}
-              className="bg-red-500 text-white px-4 py-2 rounded hover:bg-red-700"
+              className="bg-[#fd6a6a] text-white px-4 py-2 rounded hover:bg-red-700"
             >
               Delete
             </button>

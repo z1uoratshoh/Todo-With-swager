@@ -1,0 +1,133 @@
+{
+  "navBar":{
+    "text_1":"Асосӣ",
+    "text_2":"Қийматҳо",
+    "text_3":"Дар бораи мо",
+    "text_4":"Блог",
+    "text_5":"Тамос",
+    "LogIn":"Кириш",
+    "btn":"Хариди Nisa"
+  },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  "home":{
+    "sec_1":{
+      "text_1":"Гурӯҳҳо ба натиҷаҳои беҳтарро бо Nisa созанд",
+      "text_2":"Nisa барои пешрафт дар панели керакумро, статистикаҳо, маълумот ва тасдиқ ва ресурсҳои инсонӣ барои доимтарин ислоҳотҳо истифода мебаранд.",
+      "btn":"Ба Шуру Кунед"
+    },
+  
+    "sec_2":{
+      "text_1":"Гувоҳномаи аззати таълим дар Nisa-ро кашф кунед.",
+      "text_2":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Нунц тинцунт финибус тортор. Донец лобортис аугуе сед анте молестие, витае максимус нунц семпер.",
+      "text_3":"Якчанд маълумоти иловагоҳо дар бораи маҳсулоти шуморо илова кунед",
+      "btn":"Ба бӯрагоҳи Ислоҳ Кунед",
+      "text_4":"Мотиур Лееман",
+      "text_5":"Мудир маркетинг"
+    },
+     
+    "sec_3":{
+      "text_1":"Особенностяҳои ки муштарӣ шуморо кӯмак медиҳандро хамаҷоят намоед",
+      "text_2":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pretium consectetur egestas mauris adipiscing dui. Cursus facilisis diam turpis leo netus consequat phasellus. Netus ipsum sed faucibus enim.",
+      "btn":"Ба бӯрагоҳи Ислоҳ Кунед",
+      "div_1":{
+        "text_1":"Блог",
+        "text_2":"Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+      },
+      "div_2":{
+        "text_1":"Ҳуҷҷатнома",
+        "text_2":"Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+      },
+      "div_3":{
+        "text_1":"Интеграцияҳо",
+        "text_2":"Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+      },
+      "div_4":{
+        "text_1":"Мушоҳибон",
+        "text_2":"Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+      }
+    }
+  },
+
+  "sec_4": {
+    "text_1": "Кашф кардани қувваи азадии иҷодӣ бо Nisa.",
+    "text_2": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Нунц тинцунт финибус тортор. Донец лобортис аугуе сед анте молестие, витае максимус нунц семпер.",
+    "text_3": "Якчанд маълумоти иловагоҳо дар бораи маҳсулоти шумо илова кунед",
+    "btn": "Ба бӯрагоҳи Ислоҳ Кунед",
+    "btn2": "Ба бӯрагоҳи Ислоҳ Кунед",
+    "text_4": "dd баъзе",
+    "text_5": "dd баъзе"
+  },
+
+  "sec_5":{
+    "text_1":"Discover the power of creative freedom with Nisa.",
+    "text_2":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pretium consectetur egestas mauris adipiscing dui. ",
+    "btn":"Explore Section"
+  },
+
+  "sec_6": {
+    "text_1": "Кашф кардани қувваи азадии иҷодӣ бо Align.",
+    "text_2": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pretium consectetur egestas mauris adipiscing dui.",
+    "text_3": "Номи Шумо",
+    "text_4": "Суроғаи Электронӣ",
+    "btn": "Ирсол кардан"
+  },
+
+  "sec_7": {
+    "text_1": "Муштариён дуст медоранд асли ва содӣ",
+    "text_2": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Нунц луцтус вененатис ми аликвет крас интердум. Лектус конс ектетур ферментум лорем аликвам."
+  },
+
+
+  "fot":{
+    "div_1": {
+      "text_1": "Создайте красивый продукт с помощью Align",
+      "text_2": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Tellus euismod fusce pulvinar amet. Sollicitudin nullam mauris tellus accumsan, phasellus. Ut ac consequat arcu non aliquam.",
+      "text_3": ""
+    },
+    "div_2": {
+      "text_1": "Обзор",
+      "text_2": "Главная",
+      "text_3": "О нас",
+      "text_4": "Блог",
+      "text_5": "Статья блога",
+      "text_6": "Член Команды"
+    },
+    "div_3": {
+      "text_1": "Страницы",
+      "text_2": "Контакты",
+      "text_3": "История клиента",
+      "text_4": "Вход",
+      "text_5": "Регистрация",
+      "text_6": "Руководство по стилю",
+      "text_7": "Журнал изменений",
+      "text_8": "Лицензия",
+      "text_9": "404",
+      "text_10": "Пароль"
+    },
+    "div_4": {
+      "text_1": "Связаться:",
+      "text_2": "+001 234 567 89",
+      "text_3": "hellow@nesa.com"
+    }
+
+  }
+
+
+
+}

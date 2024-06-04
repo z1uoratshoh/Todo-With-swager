@@ -1,0 +1,133 @@
+{
+  "navBar":{
+    "text_1":"Главная",
+    "text_2":"Ценообразование",
+    "text_3":"О нас",
+    "text_4":"Блог",
+    "text_5":"Контакты",
+    "LogIn":"Войти",
+    "btn":"Купить Nisa"
+    },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  "home":{
+    "sec_1":{
+      "text_1":"Команды создают лучшие продукты с Nisa",
+      "text_2":"Nisa постоянно совершенствуется, чтобы двигаться вперед через панель управления, статистику, данные и проверку, а также выдающиеся кадры.",
+      "btn":"Начать"
+    },
+    "sec_2":{
+      "text_1":"Откройте для себя силу творческой свободы с Nisa.",
+      "text_2":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc tincidunt finibus tortor. Donec lobortis augue sed ante molestie, vitae maximus nunc semper.",
+      "text_3":"Добавьте некоторые дополнительные сведения о вашем продукте",
+      "btn":"Изучить раздел",
+      "text_4":"Мотиур Лиман",
+      "text_5":"Менеджер по маркетингу"
+    },
+   
+
+    "sec_3":{
+      "text_1":"Поделитесь функциями, которые помогают вашим клиентам",
+      "text_2":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pretium consectetur egestas mauris adipiscing dui. Cursus facilisis diam turpis leo netus consequat phasellus. Netus ipsum sed faucibus enim.",
+      "btn":"Изучить раздел",
+      "div_1":{
+        "text_1":"Блог",
+        "text_2":"Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+      },
+      "div_2":{
+        "text_1":"Документация",
+        "text_2":"Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+      },
+      "div_3":{
+        "text_1":"Интеграции",
+        "text_2":"Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+      },
+      "div_4":{
+        "text_1":"Клиенты",
+        "text_2":"Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+      }
+    }
+  },
+
+  "sec_4":{
+    "text_1":"Откройте для себя силу творческой свободы с Nisa.",
+    "text_2":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc tincidunt finibus tortor. Donec lobortis augue sed ante molestie, vitae maximus nunc semper.",
+    "text_3":"Добавьте некоторые дополнительные сведения о вашем продукте",
+    "btn":"Изучить раздел",
+    "btn2":"Изучить раздел",
+    "text_4":"Добавьте некоторые",
+    "text_5":"Добавьте некоторые"
+    },
+
+    "sec_5":{
+      "text_1":"Откройте для себя силу творческой свободы с Nisa.",
+      "text_2":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pretium consectetur egestas mauris adipiscing dui.",
+      "btn":"Изучить раздел"
+      },
+
+      "sec_6":{
+        "text_1":"Откройте для себя силу творческой свободы с Align.",
+        "text_2":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pretium consectetur egestas mauris adipiscing dui.",
+        "text_3":"Ваше имя",
+        "text_4":"Адрес электронной почты",
+        "btn":"Отправить"
+        },
+
+        "sec_7":{
+          "text_1":"Клиенты любят простоту и легкость",
+          "text_2":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc luctus venenatis mi aliquet cras interdum. Lectus cons ectetur fermentum lorem aliquam."
+          },
+
+
+  "fot":{
+    "div_1":{
+      "text_1":"Создайте красивый продукт с Align",
+      "text_2":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Tellus euismod fusce pulvinar amet. Sollicitudin nullam mauris tellus accumsan, phasellus. Ut ac consequat arcu non aliquam.",
+      "text_3":""
+    },
+    "div_2":{
+      "text_1":"Обзор",
+      "text_2":"Главная",
+      "text_3":"О нас",
+      "text_4":"Блог",
+      "text_5":"Пост блога",
+      "text_6":"Член команды"
+    },
+    "div_3":{
+      "text_1":"Страницы",
+      "text_2":"Контакты",
+      "text_3":"История клиента",
+      "text_4":"Вход",
+      "text_5":"Регистрация",
+      "text_6":"Руководство по стилю",
+      "text_7":"Журнал изменений",
+      "text_8":"Лицензия",
+      "text_9":"404",
+      "text_10":"Пароль"
+    },
+    "div_4":{
+      "text_1":"Связаться:",
+      "text_2":"+001 234 567 89",
+      "text_3":"hellow@nesa.com"
+    }
+
+  }
+
+
+
+}

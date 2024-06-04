@@ -1,0 +1,136 @@
+{
+  "navBar":{
+    "text_1":"Home",
+    "text_2":"Pricing ",
+    "text_3":"About",
+    "text_4":"Blog ",
+    "text_5":"Contact",
+    "LogIn":"Login",
+    "btn":"Buy Nesa"
+  },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  "home":{
+    "sec_1":{
+      "text_1":"Teams Build Better Products With Nisa",
+      "text_2":"Nisa is constantly improving to move forward through dashboard, statistics, data and verify and superior human resources.",
+      "btn":"Get Started"
+    },
+
+    "sec_2":{
+      "text_1":"Discover the power of creative freedom with Nisa.",
+      "text_2":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc tincidunt finibus tortor. Donec lobortis augue sed ante molestie, vitae maximus nunc semper.",
+      "text_3":"Add some additional details about your product",
+      "btn":"Explore Section",
+      "text_4":"Motiur Leeman",
+      "text_5":"Markating  Manager"
+    },
+   
+
+    "sec_3":{
+      "text_1":"Share the features that help your customers",
+      "text_2":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pretium consectetur egestas mauris adipiscing dui. Cursus facilisis diam turpis leo netus consequat phasellus. Netus ipsum sed faucibus enim. ",
+      "btn":"Explore Section",
+      "div_1":{
+        "text_1":"Blog",
+        "text_2":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. "
+      },
+      "div_2":{
+        "text_1":"Documentation",
+        "text_2":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. "
+      },
+      "div_3":{
+        "text_1":"intergrations",
+        "text_2":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. "
+      },
+      "div_4":{
+        "text_1":"Customers",
+        "text_2":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. "
+      }
+
+      
+    }
+  },
+
+  "sec_4":{
+    "text_1":"Discover the power of creative freedom with Nisa.",
+    "text_2":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc tincidunt finibus tortor. Donec lobortis augue sed ante molestie, vitae maximus nunc semper.",
+    "text_3":"Add some addd some details about your product",
+    "btn":"Explore Section",
+    "btn2":"Explore Section",
+    "text_4":"dd some ",
+    "text_5":"dd some "
+  },
+
+  "sec_5":{
+    "text_1":"Discover the power of creative freedom with Nisa.",
+    "text_2":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pretium consectetur egestas mauris adipiscing dui. ",
+    "btn":"Explore Section"
+  },
+
+  "sec_6":{
+    "text_1":"Discover the power of creative freedom with Align.",
+    "text_2":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pretium consectetur egestas mauris adipiscing dui. ",
+    "text_3":"Your Name",
+    "text_4":"Email Address",
+    "btn":"Submit"
+  },
+
+  "sec_7":{
+    "text_1":"Customers love the ease and simplicity",
+    "text_2":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc luctus venenatis mi aliquet cras interdum. Lectus cons ectetur fermentum lorem aliquam."
+  },
+
+
+  "fot":{
+    "div_1":{
+      "text_1":"Build a beautiful product with align",
+      "text_2":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Tellus euismod fusce pulvinar amet. Sollicitudin nullam mauris tellus accumsan, phasellus. Ut ac consequat arcu non aliquam. ",
+      "text_3":""
+    },
+    "div_2":{
+      "text_1":"Overview",
+      "text_2":"Home",
+      "text_3":"About",
+      "text_4":"Blog",
+      "text_5":"Blog post",
+      "text_6":"Team Mamber"
+    },
+    "div_3":{
+      "text_1":"Pages",
+      "text_2":"Contact",
+      "text_3":"Customer Story ",
+      "text_4":"Login",
+      "text_5":"Register",
+      "text_6":"Style Guide",
+      "text_7":"Changelog",
+      "text_8":"Licance",
+      "text_9":"404",
+      "text_10":"Password"
+    },
+    "div_4":{
+      "text_1":"Connect:",
+      "text_2":"+001 234 567 89",
+      "text_3":"hellow@nesa.com"
+    }
+
+  }
+
+
+
+}

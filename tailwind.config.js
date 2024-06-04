@@ -12,17 +12,18 @@ export default {
       'xl': {'max': '950px'},
       // => @media (max-width: 1279px) { ... }
 
-      'lg': {'max': '765px'},
+      'lg': {'max': '1200px'},
       // => @media (max-width: 1023px) { ... }
 
-      'md': {'max': '420px'},
+      'md': {'max': '760px'},
       // => @media (max-width: 767px) { ... }
 
-      'xs': {'max': '390px'},
+      'sm': {'max': '550px'},
       
     },
     extend: {},
   },
+  darkMode:"class",
   plugins: [],
 }
 
